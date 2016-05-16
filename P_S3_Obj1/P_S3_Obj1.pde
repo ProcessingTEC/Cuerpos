@@ -10,10 +10,6 @@ void draw() {
   int x=width/2-75;
   int y =height-200;
   rect(0, 0, width, height);
-  //noFill();
- // drawPythagoras(70,200,40,1);
- // drawPythagoras(270,200,40,2);
- // drawPythagoras(470,200,40,3);
   drawPythagoras(width/2,height-80,80,9);
 }
 
