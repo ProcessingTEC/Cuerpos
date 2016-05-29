@@ -15,6 +15,7 @@ Pare crear nuevos marcos de referencia se utiliza `pushMatrix()` y `popMatrix()`
 <img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Rotate1/rotate.png" width="100"><img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_lines1/line3.png" width="100">
 
 ##Tres Dimensiones
+<img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Box1/box1.png" width="100">
 
 ##Recursividad
 
