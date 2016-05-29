@@ -8,6 +8,9 @@ En Processing, para facilitar la manipulación geométtrica en 2D y 3D de objeto
 
 <img src="https://processing.org/tutorials/transform2d/imgs/moved_grid.png" width="300"><img src="https://processing.org/tutorials/transform2d/imgs/rotated_grid.png" width="300">
 
+##Matriz de referencia
+
+<img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Rotate1/rotate.png" width="300">
 
 ##Tres Dimensiones
 
