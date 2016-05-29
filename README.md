@@ -4,7 +4,7 @@ Processing es una herramienta de programación cuyo objeto es la la computación
 
 ##Transformaciones
 
-<img src="https://processing.org/tutorials/drawing/imgs/drawing-04.svg" width="100">
+<img src="https://processing.org/tutorials/drawing/imgs/drawing-05.svg" width="500">
 
 ##Tres Dimensiones
 
