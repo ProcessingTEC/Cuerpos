@@ -6,7 +6,8 @@ Processing es una herramienta de programación cuyo objeto es la la computación
 
 En Processing, para facilitar la manipulación geométtrica en 2D y 3D de objetos gráficos, se puede manipular el sistema cartesiano de referencia.  Ya en la sección anterior se utilizaron métodos como trasnlate(x,y), que lo que hace es mover el marco de referencia. Una vez aplicado "trasnlate", el nuevo marco de referencia tiene el origen 0,0, en el punto indicado por translate
 
-<img src="https://processing.org/tutorials/transform2d/imgs/moved_grid.png" width="300">
+<img src="https://processing.org/tutorials/transform2d/imgs/moved_grid.png" width="300"><img src="https://processing.org/tutorials/transform2d/imgs/rotated_grid.png" width="300">
+
 
 ##Tres Dimensiones
 
