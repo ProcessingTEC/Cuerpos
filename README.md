@@ -19,7 +19,7 @@ Pare crear nuevos marcos de referencia se utiliza `pushMatrix()` y `popMatrix()`
 
 ##Recursividad
 
-<img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Obj1/0127.jpg" width="100">
+<img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Rec1/rec1.png" width="100"><img src="https://github.com/ProcessingTEC/Cuerpos/blob/master/P_S3_Obj1/0127.jpg" width="100">
 
 ##Objetos
 
